@@ -2,7 +2,7 @@
 
 ##  💻 Sobre o projeto
 
-Interface do app construida com react , e api utilizando  javascript,Graphql com apollo e mongodb.
+Interface do app construida com react  e api utilizando  javascript,Graphql com apollo e mongodb.
 
 ## 🛠️ Tecnologias
  - Graphql
